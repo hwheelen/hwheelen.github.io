@@ -13,20 +13,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: "I don't have imposter syndrom, I'm just an imposter" and other thoughts
+I tend to keep to myself
+email: hwheelen@princeton.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, I'm Hannah, a so called "mathematician" working towards voting righs reform.
+  I'm the data specialist for the Princeton Gerrymandering Project, which is a
+  way of saying my day to day work is always  different, but it always has to
+  do with data. Usually, I'm working with precinct level election data and the
+  maps of these precincts that match. I'll record noteworthy things here, mostly
+  for myself, but I'll put ut out there. I come across interesting data weird-ness
+  and creative solutions to nice problems that you might have, since you've
+  taken the time to read this far. Enjoy!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: hananawa222
+github_username:  hwheelen
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
